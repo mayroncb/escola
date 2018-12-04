@@ -1,0 +1,16 @@
+th {
+    background-color: lightcyan;
+    padding: 4px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 4px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
